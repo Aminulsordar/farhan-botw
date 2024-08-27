@@ -5,13 +5,13 @@
   "language": "en",
   "notification": true,
   "approval": false,
-  "BOTNAME": "𝙵𝙰𝚁𝙷𝙰𝙽-𝙱𝙾𝚃",
+  "BOTNAME": "AMINUL-BOT",
   "PREFIX": "/",
   "OPERATOR": [
-    "100069926588234"
+    "100071880593545"
   ],
   "ADMINBOT": [
-    "100069926588234",
+    "100071880593545",
     "100089974857944"
   ],
   "OWNER": ["100000959749712"], 
