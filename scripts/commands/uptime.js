@@ -129,9 +129,9 @@ registerFont(__dirname + `/cache/CaviarDreams.ttf`, {
     });
     ctx.textAlign = "start";
     ctx.font = "55px time";
-    ctx.fillText("FARHAN_ISLAM", 930, 540)
-    ctx.fillText("FARHAN_ISLAM", 930, 610)
-    ctx.fillText("FARHAN_ISLAM", 930, 690)
+    ctx.fillText("Aminulsardar", 930, 540)
+    ctx.fillText("Aminulsardar", 930, 610)
+    ctx.fillText("aminulsardar", 930, 690)
     ctx.restore();
     ctx.save();
     ctx.beginPath();
